@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Fahim Hossain</h1>
 <h3 align="center">I am a student studying computer science and engineering (CSE), and I have a strong background in front-end and back-end development. Graphics design, HTML, CSS</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/animated-gif-artificial-intelligence-KVVgWtScb37USleUB3)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faheemashraf23&label=Profile%20views&color=0e75b6&style=flat" alt="faheemashraf23" /> </p>
 
 <h3 align="left">Connect with me:</h3>
