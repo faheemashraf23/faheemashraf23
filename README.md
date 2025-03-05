@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://blog.mindgrub.com/hs-fs/hubfs/Blog_Images/Digital-Transformation-Blog.jpg?width=970&name=Digital-Transformation-Blog.jpg)
 <h1 align="center">Hi 👋, I'm Fahim Hossain</h1>
 <h3 align="center">I am a student studying computer science and engineering (CSE), and I have a strong background in front-end and back-end development. Graphics design, HTML, CSS, JavaScript, Java, C, PHP, Python, and MySQL are among the practical skills I possess. Because I love design and programming, I can make solutions that are dynamic, useful, and aesthetically pleasing. In the field of software development, I am excited to investigate cutting-edge technology and hone my abilities.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/39/b7/99/39b7991b74f89eb942bdc763b80959be.gif">
