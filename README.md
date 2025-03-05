@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Fahim Hossain</h1>
 <h3 align="center">I am a student studying computer science and engineering (CSE), and I have a strong background in front-end and back-end development. Graphics design, HTML, CSS</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZuMWg2ZnFpcmNqeGpuMjRqNDR3ZWQzNzVlZTFnZ2F6ZHg5dXRzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam96bW83N3VyajJ5ZDg4eHdkcHpmc2M0aXFrdHlkdGMzMnc5ZGFoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faheemashraf23&label=Profile%20views&color=0e75b6&style=flat" alt="faheemashraf23" /> </p>
 
 <h3 align="left">Connect with me:</h3>
