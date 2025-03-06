@@ -19,3 +19,6 @@
 <p align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wavy Footer"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20You&fontSize=40&fontColor=white&animation=fadeIn&desc=Stay%20connected&descColor=lightgray&descFontSize=20"/>
+</p>
