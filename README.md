@@ -58,36 +58,7 @@
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ---
-
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/faheemashraf23/faheemashraf23/output/github-contribution-grid-snake.svg)
-
-<!--   stats + languages -->
-
-| .                                                                                                                                                 | .                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
-
-
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-
-
+                                                 
 ### Profile Views
 
 counting of visitors to this page in this section started from March 06, 2025
