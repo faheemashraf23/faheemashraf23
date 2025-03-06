@@ -18,6 +18,7 @@ counting of visitors to this page in this section started from March 06, 2025
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faheemashraf23&show_icons=true&locale=en" alt="faheemashraf23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faheemashraf23&" alt="faheemashraf23" /></p>
+
 ## 🥇 Primary technology stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
