@@ -53,9 +53,8 @@
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/faheemashraf23/count.svg">
 
-Counting of visitors to this page in this section started from May 1, 2022
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ---
@@ -66,7 +65,7 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![idimetrix's github activity graph](https://raw.githubusercontent.com/faheemashraf23/faheemashraf23/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
@@ -84,25 +83,12 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
-</p>
-
-   <!--machine-learning-->
 
 ```mermaid
 graph TD;
@@ -114,49 +100,15 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<!-- New York - My Home-->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.2591,
-              40.4774
-            ],
-            [
-              -73.7004,
-              40.9176
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
 
 ### Profile Views
 
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from March 06, 2025
 
 ![](https://count.getloli.com/get/@faheemashraf23.github.readme)
 </br>
 
-[MIT](LICENSE)
+[Fahim Hossain](LICENSE)
 
 ---
 
