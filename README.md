@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faheemashraf23&show_icons=true&locale=en" alt="faheemashraf23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faheemashraf23&" alt="faheemashraf23" /></p>
+<p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wavy Footer"/>
+</p>
