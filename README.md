@@ -75,19 +75,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
 
-<!-- dark snake -->
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
-
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
 
 ```mermaid
