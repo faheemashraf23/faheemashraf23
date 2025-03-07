@@ -1,4 +1,4 @@
-![MasterHead]<img alt="Coding" width="20000" src="https://thoughtsofathirdworldfilmmaker.wordpress.com/wp-content/uploads/2016/10/chess-animated-gif-6.gif">
+<img alt="Coding" width="2000" src="https://static.wikia.nocookie.net/harrypotterfanon/images/f/f6/Chessboard.gif/revision/latest?cb=20201118130945">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Fahim Hossain</h1>
 <h3 align="center">I am a student studying computer science and engineering (CSE), and I have a strong background in front-end and back-end development. Graphics design, HTML, CSS, JavaScript, Java, C, PHP, Python, and MySQL are among the practical skills I possess. Because I love design and programming, I can make solutions that are dynamic, useful, and aesthetically pleasing. In the field of software development, I am excited to investigate cutting-edge technology and hone my abilities.</h3>
 <img align="right" alt="Coding" width="200" src="https://w7.pngwing.com/pngs/297/130/png-transparent-chess-pieces-chessboard-chess-opening-chess-piece-chess-strategy-international-chess-game-king-queen-thumbnail.png">
