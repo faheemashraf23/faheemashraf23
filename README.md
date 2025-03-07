@@ -1,9 +1,9 @@
 <img alt="Coding" width="1000" src="https://static.wikia.nocookie.net/harrypotter/images/7/7f/Chessboard_Chamber_GIF.gif/revision/latest?cb=20140407212524">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Fahim Hossain</h1>
 <h3 align="center">I am a student studying computer science and engineering (CSE), and I have a strong background in front-end and back-end development. Graphics design, HTML, CSS, JavaScript, Java, C, PHP, Python, and MySQL are among the practical skills I possess. Because I love design and programming, I can make solutions that are dynamic, useful, and aesthetically pleasing. In the field of software development, I am excited to investigate cutting-edge technology and hone my abilities.</h3>
-<img align="right"  width="200" src="![faheem](https://github.com/user-attachments/assets/119b393b-5dbc-418d-8942-1c3f6f3990d7)
+<img align="right"  width="200" src="image/faheem.png")
 ">
-                                                 ![faheem](https://github.com/user-attachments/assets/da81ff41-8a86-4058-ae75-7bf78202c76d)
+                                     
 
 ### Profile Views
 counting of visitors to this page in this section started from March 06, 2025
